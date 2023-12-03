@@ -7,6 +7,7 @@ Este proyecto realiza un inicio de sesión y manda un mensaje en función de lo 
 ## Tecnologias
 - HTML
 - CSS
+- JavaScript
 
 ## Ver ejemplo en vivo
 - [https://viteripro.github.io/Login-user/](https://viteripro.github.io/Login-user/)
