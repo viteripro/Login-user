@@ -39,3 +39,12 @@ body{
 .send{
   margin-top: 2em;
 }
+.img-login{    
+   width: 50%;
+   height: 5em;
+   margin-left: auto;
+   margin-right: auto;
+}
+.img-login > img{
+    width: 100%;
+}
